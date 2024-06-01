@@ -1,4 +1,4 @@
-# code - Multifunktional Python Library
+# code - Multifunctional Python Library
 
 ## Windows and MacOS
 
